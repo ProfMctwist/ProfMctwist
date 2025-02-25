@@ -20,6 +20,9 @@ My career in aviation has led me to a point where I beleive my problem solving a
 [Analytical & Soft Skills]
 
 Risk Assessment & Vulnerability Management
+
 Cybersecurity Policies & Best Practices
+
 Problem-Solving & Incident Response
+
 Security Documentation & Reporting
